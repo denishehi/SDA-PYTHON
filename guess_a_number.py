@@ -58,3 +58,4 @@ while is_playing:
         is_playing = False
 
 print("Loja mbaroi, bye!")
+print("hello")
