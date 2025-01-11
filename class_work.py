@@ -7,7 +7,7 @@ mes_grades=tot_grades/len(grades)
 print(tot_grades)
 print(mes_grades)
 if(mes_grades<=4):
-    print("Ju nuk e perfitoni bursen")
+    print("Ju nuk e perfitoni bursen falas")
 elif(mes_grades >= 7 and (mes_grades <= 9)):
     print("ju perfitoni 50% burse falas")
 else:
